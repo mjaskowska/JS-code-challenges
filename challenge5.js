@@ -14,4 +14,4 @@ function calculateSum(arr)
 
 let arr = [-1, 4, 56, 240, -54];
 
-console.log(calculateSum(arr));
+console.log(calculateSum(arr)); 
